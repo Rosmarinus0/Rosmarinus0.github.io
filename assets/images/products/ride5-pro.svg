@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80">
+  <rect width="120" height="80" fill="#f5f5f7" rx="8"/>
+  <rect x="20" y="15" width="80" height="40" rx="7" fill="#c8c8ca"/>
+  <circle cx="36" cy="55" r="3.5" fill="#999"/>
+  <circle cx="84" cy="55" r="3.5" fill="#999"/>
+  <rect x="38" y="22" width="44" height="24" rx="4" fill="#aaa"/>
+  <circle cx="60" cy="34" r="8" fill="#888"/>
+  <circle cx="60" cy="34" r="4" fill="#666"/>
+  <rect x="72" y="18" width="22" height="7" rx="2" fill="#b0b0b0"/>
+  <rect x="20" y="40" width="14" height="8" rx="2" fill="#b0b0b0"/>
+  <text x="60" y="72" text-anchor="middle" font-size="7" fill="#999" font-family="Arial">Ride5 Pro</text>
+</svg>
